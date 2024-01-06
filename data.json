@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "info": "A passionate wildlife enthusiast and photographer, often found exploring nature",
+    "imgUrl": "/images/john.png"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "info": "An avid reader and aspiring novelist, Jane loves spending her weekends at local cafes.",
+    "imgUrl": "/images/jane.png"
+  },
+  {
+    "name": "Alex Martinez",
+    "age": 27
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarahjohnson@example.com",
+    "age": 30,
+    "info": "A fitness enthusiast, Alex enjoys hiking and participating in marathons around the country",
+    "imgUrl": "/images/sarah.png"
+  },
+  {
+    "email": "mikebrown@example.com",
+    "age": 45,
+    "info": "Tech-savy and innovative, Sarah is known for her cutting-edge software solutions."
+  }
+]
